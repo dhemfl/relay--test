@@ -2,3 +2,4 @@
 로컬에서 작업을 전부 함
 acomputer 에서 작업함
 bcomputer 에서 작업함
+acomputer 에서 작업함 2
